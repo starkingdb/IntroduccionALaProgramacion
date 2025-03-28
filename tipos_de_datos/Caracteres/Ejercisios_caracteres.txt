@@ -1,0 +1,21 @@
+ejersicio numero 13
+inicial = 'S'
+print("La inicial de mi nombre es:", inicial)
+
+
+ejersicio numero 14
+letra = input("Ingresa una letra: ")
+print("La letra ingresada es:", letra)
+
+
+ejersicio numero 15
+simbolo = '#'
+print("El símbolo es:", simbolo)
+
+
+ejersicio numero 16
+caracter = input("Ingresa un carácter: ").lower()
+if caracter in 'aeiou':
+    print("Es una vocal.")
+else:
+    print("No es una vocal.")

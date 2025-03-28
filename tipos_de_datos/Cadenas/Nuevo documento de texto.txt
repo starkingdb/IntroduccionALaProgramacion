@@ -1,0 +1,18 @@
+Ejersicio numero 17
+nombre = "Starking de León Beltre"
+print("Mi nombre completo es:", nombre)
+
+Ejersicio numero 18
+cadena1 = "Hola"
+cadena2 = "Mundo"
+mensaje = cadena1 + " " + cadena2
+print(mensaje)
+
+Ejersicio numero 19
+nombre_usuario = input("¿Cuál es tu nombre? ")
+print(f"¡Bienvenido, {nombre_usuario}!")
+
+Ejersicio numero 20
+cadena = input("Ingresa una cadena: ")
+longitud = len(cadena)
+print(f"La cadena ingresada tiene {longitud} letras.")
